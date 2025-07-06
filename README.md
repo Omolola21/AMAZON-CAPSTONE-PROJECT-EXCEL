@@ -28,3 +28,8 @@ Download the .xlsx file.
 Open in Microsoft Excel (2016 or newer recommended).
 Use the slicers and filters to explore the dashboard interactively.
 This project demonstrates my ability to clean data, build clear reports, and deliver insights visually — all using Excel.
+
+<img width="960" alt="chart 1" src="https://github.com/user-attachments/assets/edc8cecd-de65-4989-be63-159aba87ab79" />
+<img width="960" alt="dashboard" src="https://github.com/user-attachments/assets/dd5cebce-d31c-446c-b7d0-30f856c110c6" />
+<img width="799" alt="Chart 2" src="https://github.com/user-attachments/assets/7f4f9ffa-63f4-4fac-82a4-df4bd5dd8e05" />
+
